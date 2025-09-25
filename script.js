@@ -12,3 +12,4 @@ function updateBalance(value)
 
 console.log("payment intergration successfully");
 console.log("Aap log ab easily payment system use kar sakte hai");
+console.log("payment intergration successfully");
